@@ -326,3 +326,57 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 550.041126 seconds.
+  path: Assets/New Terrain 1.asset
+  artifactKey: Guid(6547b0b39a2464fce99656aec3ebe06b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Terrain 1.asset using Guid(6547b0b39a2464fce99656aec3ebe06b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6b61c78384df2661c1c3d92d86f72a3') in 0.158134 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 341.053255 seconds.
+  path: Assets/TerrainData_809ed01b-0ab4-42b6-9032-79830f5003c7.asset
+  artifactKey: Guid(8cb86a0673f4e40888c165de93c39f97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TerrainData_809ed01b-0ab4-42b6-9032-79830f5003c7.asset using Guid(8cb86a0673f4e40888c165de93c39f97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9af718587c90ad84b53f7f0c84ed947e') in 0.008948 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.679006 seconds.
+  path: Assets/TerrainData_37ba0f1c-81fb-4a13-984f-19ea50fdc2b4.asset
+  artifactKey: Guid(db0f7605941854e38946ecb5821512a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TerrainData_37ba0f1c-81fb-4a13-984f-19ea50fdc2b4.asset using Guid(db0f7605941854e38946ecb5821512a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2acf735896222f2e8273e3b0a9ffe84') in 0.009931 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.380110 seconds.
+  path: Assets/TerrainData_7b88dcd1-cd88-4079-87e1-d852803b4579.asset
+  artifactKey: Guid(f1a5e18709492452ca10cc59cc686053) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TerrainData_7b88dcd1-cd88-4079-87e1-d852803b4579.asset using Guid(f1a5e18709492452ca10cc59cc686053) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '119baf0edf80523bb025f15c9849c2e2') in 0.009590 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.604306 seconds.
+  path: Assets/TerrainData_95a90dba-50f7-488f-b2c3-88407ee30a06.asset
+  artifactKey: Guid(a8b568adc6b5649d28ca87ec952f1ddc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TerrainData_95a90dba-50f7-488f-b2c3-88407ee30a06.asset using Guid(a8b568adc6b5649d28ca87ec952f1ddc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61d2d48ea82415a1f4722b29e25db54a') in 0.010182 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.976239 seconds.
+  path: Assets/TerrainData_37c87697-05c5-43a6-b5e6-2f3e1b335185.asset
+  artifactKey: Guid(03c5640f03bef4cbba8de48cf6f2d60d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TerrainData_37c87697-05c5-43a6-b5e6-2f3e1b335185.asset using Guid(03c5640f03bef4cbba8de48cf6f2d60d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f844df16d564ac27673479d9195e99c9') in 0.009910 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.569793 seconds.
+  path: Assets/TerrainData_5c020de9-3667-4df5-85a2-60e260a7fdfa.asset
+  artifactKey: Guid(dd1de615bed204451aab16805aabd4ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TerrainData_5c020de9-3667-4df5-85a2-60e260a7fdfa.asset using Guid(dd1de615bed204451aab16805aabd4ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '536b0b53d722fc398c1646877f9c5060') in 0.007570 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.983503 seconds.
+  path: Assets/TerrainData_f12cfaa7-9aa4-4e96-9d39-d56908c05dfa.asset
+  artifactKey: Guid(0dbb6341e08e94414a433766770c79ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TerrainData_f12cfaa7-9aa4-4e96-9d39-d56908c05dfa.asset using Guid(0dbb6341e08e94414a433766770c79ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a2279db653b9feeaece2a4955502eee') in 0.006844 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.541742 seconds.
+  path: Assets/TerrainData_326486e1-60bb-40aa-abda-66331a141cb8.asset
+  artifactKey: Guid(254d0a39c48ba451d8eec14980473b7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TerrainData_326486e1-60bb-40aa-abda-66331a141cb8.asset using Guid(254d0a39c48ba451d8eec14980473b7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b94a1109eeff41f8bb541c5e13cb1978') in 0.008297 seconds 
