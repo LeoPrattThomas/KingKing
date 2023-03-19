@@ -1,6 +1,8 @@
 # KingKing
 
-### +Basic Overview of Game:                                                    
+## THIS GAME IS STILL IN BETA
+
+### Basic Overview of Game:                                                    
 
 Objective: No real objective, just play with friends on an (maybe infinite) map.
 When you load/spawn into the game, you will be surrounded by “castle walls” (will decide area of walls and the chunk formatting later) with a tiny army of 100 men (ai in the game - the tiny characters like your army we’ll call them meeples - don't need to look good, just a rough pixelated form of a human like this, 웃 for beginning of game.) Players are able to make their own sort of government like democracy or communism. Each government has its own separate color. Communism could have color red and democracy might have color blue. Shades of color (red or blue as of now) will fill in all territory owned by that player lightly. When the player is looking Color is only shown on the mini map and is light, not hard. To the player on screen, you can not see shading. Players can interact with each other by forming treaties and going to war. Background of the game doesn’t have to be anything special. Just a simple texture for grass, forests, and rock looks.
@@ -9,7 +11,7 @@ I have some ideas for the geographical objects on the map, like rivers, mountain
 ALL TEXT ABOVE IS IN FOR DEBATE AND CAN/WILL MOST LIKELY BE CHANGED
 
 
-### unity information
+### Unity Information
 This is a unity file ideals if you ahem. Unity installed you an edit and see all of the programs on unity.
 
 Also it can be open in vs code if you are cr4eating and editing in c.
