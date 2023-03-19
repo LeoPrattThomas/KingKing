@@ -1,0 +1,38 @@
+King king
+Base:
+Keyboard inputs
+
+Events
+Governments
+-type (democracy, communism, etc)
+-color, flag
+-land
+
+Chat:
+-text
+-time
+
+Title screen
+-tbd different activity 
+
+
+Entity’s:
+Player 
+-cords
+-movements
+-camera 
+
+Wall
+-cord
+-direction
+
+Tree
+-cords
+-tree type 
+
+
+
+
+Board:
+Chunk: biome, cords(In center?)
+Terrain floor
