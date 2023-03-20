@@ -22,6 +22,6 @@ public class Player : MonoBehaviour
     void FixedUpdate()
     {
         //movement
-        rb.MovePosition(rb.position * movement * moveSpeed * Time.fixedDeltaTime);
+        rb.MovePosition(rb.position + movement * moveSpeed * Time.fixedDeltaTime);
     }
 }
