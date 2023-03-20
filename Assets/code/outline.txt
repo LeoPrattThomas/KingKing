@@ -12,7 +12,7 @@ Chat:
 -text
 -time
 
-Title screen
+TitleScreen
 -tbd different activity 
 
 
@@ -35,4 +35,4 @@ Tree
 
 Board:
 Chunk: biome, cords(In center?)
-Terrain floor
+Floor
