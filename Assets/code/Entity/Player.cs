@@ -6,7 +6,7 @@ using UnityEngine;
 Player 
 -cords √
 -movements √ (charcor animation after artests are ready)
--camera
+-camera √
 */
 
 public class Player : MonoBehaviour
