@@ -3,7 +3,6 @@
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
 
-My project
 # Mac Crap
 .DS_Store
 
@@ -61,10 +60,10 @@ ExportedObj/
 sysinfo.txt
 
 # Builds
-*.apk
-*.aab
-*.unitypackage
-*.app
+#*.apk
+#*.aab
+#*.unitypackage
+#*.app
 
 # Crashlytics generated file
 crashlytics-build.properties
