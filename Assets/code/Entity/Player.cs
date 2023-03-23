@@ -1,14 +1,12 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
 /*
 Player 
 -cords √
 -movements √ (charcor animation after artests are ready)
 -camera √
 */
-
 public class Player : MonoBehaviour
 {
     
